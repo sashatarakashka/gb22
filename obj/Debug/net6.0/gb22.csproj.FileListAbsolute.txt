@@ -1,0 +1,15 @@
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.csproj.AssemblyReference.cache
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.AssemblyInfoInputs.cache
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.AssemblyInfo.cs
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.csproj.CoreCompileInputs.cache
+C:\Users\Сашка\Desktop\gb22\bin\Debug\net6.0\gb22.exe
+C:\Users\Сашка\Desktop\gb22\bin\Debug\net6.0\gb22.deps.json
+C:\Users\Сашка\Desktop\gb22\bin\Debug\net6.0\gb22.runtimeconfig.json
+C:\Users\Сашка\Desktop\gb22\bin\Debug\net6.0\gb22.dll
+C:\Users\Сашка\Desktop\gb22\bin\Debug\net6.0\gb22.pdb
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.dll
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\refint\gb22.dll
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.pdb
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\gb22.genruntimeconfig.cache
+C:\Users\Сашка\Desktop\gb22\obj\Debug\net6.0\ref\gb22.dll
